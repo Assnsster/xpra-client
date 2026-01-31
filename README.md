@@ -1,5 +1,5 @@
 ![Android Xpra Client Logo](/docs/images/android-xpra-client.png)
-
+ 
 # Xpra Client for Android / Java
 [![Build Status](https://travis-ci.org/jksiezni/xpra-client.svg?branch=master)](https://travis-ci.org/jksiezni/xpra-client)
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
